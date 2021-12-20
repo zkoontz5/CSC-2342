@@ -1,5 +1,4 @@
 #Zachary Koontz
-#Email: zkoontz@highpoint.edu
 #Predicate Logic Quantifier
 #Intended Rubric = R3
 
